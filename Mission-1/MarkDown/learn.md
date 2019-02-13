@@ -1,5 +1,8 @@
+[冒险主页][src]
+
 **声明**: 该文章大部分引用了 [riku][src1] 和 [guodongxiaren][src2]的示例.
 
+  [src]: https://github.com/TwilightTian/adventure
   [src1]: https://github.com/riku/Markdown-Syntax-CN/blob/master/syntax.md
   [src2]: https://github.com/guodongxiaren/README/blob/master/README.md
 
