@@ -1,6 +1,6 @@
 **声明**: 该文章大部分引用了 [riku][src1] 和 [guodongxiaren][src2]的示例.
 
-  [src1]: http://gitcafe.com/riku/Markdown-Syntax-CN/blob/master/syntax.md
+  [src1]: https://github.com/riku/Markdown-Syntax-CN/blob/master/syntax.md
   [src2]: https://github.com/guodongxiaren/README/blob/master/README.md
 
 
