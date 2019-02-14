@@ -79,7 +79,7 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 |2|`![][img1]`|![][img1]
 
 注意例2的写法使用了**URL标识符**的形式，在[链接](#链接)一节有介绍。
->在文末有foryou的定义：
+>在文末有img1的定义：
 ```
 [img1]: https://github.com/TwilightTian/adventure/blob/master/Mission-1/MarkDown/cat.jpg
 ```
