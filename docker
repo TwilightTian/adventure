@@ -1,0 +1,10 @@
+docker 部署 jenkins
+
+1.下载docker 
+2. 执行 docker pull jenkins/jenkins 
+3. 生成 容器 docker run -p 8080 -p 50000:50000 -name j01 jenkins/jenkins:lts
+4. 运行容器 docker start j01
+5. 进入容器 docker exec -it j01 bin/bash 
+6. 停止容器 docker stop j01
+7. 删除容器 docker rm j01
+8.删除镜像 docker rmi jenkins/jenkins
